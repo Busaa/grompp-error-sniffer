@@ -1,7 +1,7 @@
 # grompp-error-sniffer
-Tool designed to help GROMACS users quickly identify and resolve common errors in topol.top
+Tool designed to help GROMACS users quickly identify and resolve common errors in topol.top. Example: **No default Bondtypes**, **No default U-B types**, **No default Proper Dih. types**
 
-## Use cases
+## Use Cases
 When working with GROMACS for molecular dynamics (MD) simulations, errors in the topology file can, and will, happen. They can be frustrating and time-consuming to debug—especially when building non-standard force fields or modifying .rtp files for ligands. This tool aims to simplify the process by:
   - Identifying problematic atoms and connections in the topol.top file.
 
