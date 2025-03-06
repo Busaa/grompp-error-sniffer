@@ -1,0 +1,3247 @@
+Topology Error Analysis Results
+==============================
+
+Total errors found: 324
+
+Error 1:
+  Line: 29418
+  Message: No default U-B types
+  Atoms involved: 1393, 1395, 1397
+  Atom names: N, CA, CB
+  Atom types: NH1, CT1, C1O
+  Residues: CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 2:
+  Line: 29420
+  Message: No default U-B types
+  Atoms involved: 1396, 1395, 1397
+  Atom names: HA, CA, CB
+  Atom types: HB1, CT1, C1O
+  Residues: CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 3:
+  Line: 29422
+  Message: No default U-B types
+  Atoms involved: 1397, 1395, 1401
+  Atom names: CB, CA, C
+  Atom types: C1O, CT1, C
+  Residues: CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 4:
+  Line: 29423
+  Message: No default U-B types
+  Atoms involved: 1395, 1397, 1398
+  Atom names: CA, CB, HB1
+  Atom types: CT1, C1O, HA2
+  Residues: CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 5:
+  Line: 29424
+  Message: No default U-B types
+  Atoms involved: 1395, 1397, 1399
+  Atom names: CA, CB, HB2
+  Atom types: CT1, C1O, HA2
+  Residues: CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 6:
+  Line: 29425
+  Message: No default U-B types
+  Atoms involved: 1395, 1397, 1400
+  Atom names: CA, CB, SG
+  Atom types: CT1, C1O, S1O
+  Residues: CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 7:
+  Line: 29426
+  Message: No default U-B types
+  Atoms involved: 1398, 1397, 1399
+  Atom names: HB1, CB, HB2
+  Atom types: HA2, C1O, HA2
+  Residues: CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 8:
+  Line: 29427
+  Message: No default U-B types
+  Atoms involved: 1398, 1397, 1400
+  Atom names: HB1, CB, SG
+  Atom types: HA2, C1O, S1O
+  Residues: CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 9:
+  Line: 29428
+  Message: No default U-B types
+  Atoms involved: 1399, 1397, 1400
+  Atom names: HB2, CB, SG
+  Atom types: HA2, C1O, S1O
+  Residues: CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 10:
+  Line: 29429
+  Message: No default U-B types
+  Atoms involved: 1397, 1400, 5687
+  Atom names: CB, SG, FE2
+  Atom types: C1O, S1O, FEJO
+  Residues: CYS300, CYS300, F4O602
+
+------------------------------
+
+Error 11:
+  Line: 30982
+  Message: No default U-B types
+  Atoms involved: 2242, 2244, 2246
+  Atom names: N, CA, CB
+  Atom types: NH1, CT1, C1O
+  Residues: CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 12:
+  Line: 30984
+  Message: No default U-B types
+  Atoms involved: 2245, 2244, 2246
+  Atom names: HA, CA, CB
+  Atom types: HB1, CT1, C1O
+  Residues: CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 13:
+  Line: 30986
+  Message: No default U-B types
+  Atoms involved: 2246, 2244, 2250
+  Atom names: CB, CA, C
+  Atom types: C1O, CT1, C
+  Residues: CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 14:
+  Line: 30987
+  Message: No default U-B types
+  Atoms involved: 2244, 2246, 2247
+  Atom names: CA, CB, HB1
+  Atom types: CT1, C1O, HA2
+  Residues: CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 15:
+  Line: 30988
+  Message: No default U-B types
+  Atoms involved: 2244, 2246, 2248
+  Atom names: CA, CB, HB2
+  Atom types: CT1, C1O, HA2
+  Residues: CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 16:
+  Line: 30989
+  Message: No default U-B types
+  Atoms involved: 2244, 2246, 2249
+  Atom names: CA, CB, SG
+  Atom types: CT1, C1O, S1O
+  Residues: CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 17:
+  Line: 30990
+  Message: No default U-B types
+  Atoms involved: 2247, 2246, 2248
+  Atom names: HB1, CB, HB2
+  Atom types: HA2, C1O, HA2
+  Residues: CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 18:
+  Line: 30991
+  Message: No default U-B types
+  Atoms involved: 2247, 2246, 2249
+  Atom names: HB1, CB, SG
+  Atom types: HA2, C1O, S1O
+  Residues: CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 19:
+  Line: 30992
+  Message: No default U-B types
+  Atoms involved: 2248, 2246, 2249
+  Atom names: HB2, CB, SG
+  Atom types: HA2, C1O, S1O
+  Residues: CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 20:
+  Line: 30993
+  Message: No default U-B types
+  Atoms involved: 2246, 2249, 5686
+  Atom names: CB, SG, FE1
+  Atom types: C1O, S1O, FEJO
+  Residues: CYS355, CYS355, F4O602
+
+------------------------------
+
+Error 21:
+  Line: 35010
+  Message: No default U-B types
+  Atoms involved: 4450, 4452, 4454
+  Atom names: N, CA, CB
+  Atom types: NH1, CT1, C1O
+  Residues: CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 22:
+  Line: 35012
+  Message: No default U-B types
+  Atoms involved: 4453, 4452, 4454
+  Atom names: HA, CA, CB
+  Atom types: HB1, CT1, C1O
+  Residues: CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 23:
+  Line: 35014
+  Message: No default U-B types
+  Atoms involved: 4454, 4452, 4458
+  Atom names: CB, CA, C
+  Atom types: C1O, CT1, C
+  Residues: CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 24:
+  Line: 35015
+  Message: No default U-B types
+  Atoms involved: 4452, 4454, 4455
+  Atom names: CA, CB, HB1
+  Atom types: CT1, C1O, HA2
+  Residues: CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 25:
+  Line: 35016
+  Message: No default U-B types
+  Atoms involved: 4452, 4454, 4456
+  Atom names: CA, CB, HB2
+  Atom types: CT1, C1O, HA2
+  Residues: CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 26:
+  Line: 35017
+  Message: No default U-B types
+  Atoms involved: 4452, 4454, 4457
+  Atom names: CA, CB, SG
+  Atom types: CT1, C1O, S1O
+  Residues: CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 27:
+  Line: 35018
+  Message: No default U-B types
+  Atoms involved: 4455, 4454, 4456
+  Atom names: HB1, CB, HB2
+  Atom types: HA2, C1O, HA2
+  Residues: CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 28:
+  Line: 35019
+  Message: No default U-B types
+  Atoms involved: 4455, 4454, 4457
+  Atom names: HB1, CB, SG
+  Atom types: HA2, C1O, S1O
+  Residues: CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 29:
+  Line: 35020
+  Message: No default U-B types
+  Atoms involved: 4456, 4454, 4457
+  Atom names: HB2, CB, SG
+  Atom types: HA2, C1O, S1O
+  Residues: CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 30:
+  Line: 35021
+  Message: No default U-B types
+  Atoms involved: 4454, 4457, 5689
+  Atom names: CB, SG, FE4
+  Atom types: C1O, S1O, FEJO
+  Residues: CYS499, CYS499, F4O602
+
+------------------------------
+
+Error 31:
+  Line: 35084
+  Message: No default U-B types
+  Atoms involved: 4491, 4493, 4495
+  Atom names: N, CA, CB
+  Atom types: NH1, CT1, C1O
+  Residues: CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 32:
+  Line: 35086
+  Message: No default U-B types
+  Atoms involved: 4494, 4493, 4495
+  Atom names: HA, CA, CB
+  Atom types: HB1, CT1, C1O
+  Residues: CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 33:
+  Line: 35088
+  Message: No default U-B types
+  Atoms involved: 4495, 4493, 4499
+  Atom names: CB, CA, C
+  Atom types: C1O, CT1, C
+  Residues: CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 34:
+  Line: 35089
+  Message: No default U-B types
+  Atoms involved: 4493, 4495, 4496
+  Atom names: CA, CB, HB1
+  Atom types: CT1, C1O, HA2
+  Residues: CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 35:
+  Line: 35090
+  Message: No default U-B types
+  Atoms involved: 4493, 4495, 4497
+  Atom names: CA, CB, HB2
+  Atom types: CT1, C1O, HA2
+  Residues: CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 36:
+  Line: 35091
+  Message: No default U-B types
+  Atoms involved: 4493, 4495, 4498
+  Atom names: CA, CB, SG
+  Atom types: CT1, C1O, S1O
+  Residues: CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 37:
+  Line: 35092
+  Message: No default U-B types
+  Atoms involved: 4496, 4495, 4497
+  Atom names: HB1, CB, HB2
+  Atom types: HA2, C1O, HA2
+  Residues: CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 38:
+  Line: 35093
+  Message: No default U-B types
+  Atoms involved: 4496, 4495, 4498
+  Atom names: HB1, CB, SG
+  Atom types: HA2, C1O, S1O
+  Residues: CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 39:
+  Line: 35094
+  Message: No default U-B types
+  Atoms involved: 4497, 4495, 4498
+  Atom names: HB2, CB, SG
+  Atom types: HA2, C1O, S1O
+  Residues: CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 40:
+  Line: 35095
+  Message: No default U-B types
+  Atoms involved: 4495, 4498, 5664
+  Atom names: CB, SG, FE1
+  Atom types: C1O, S1O, FEM1
+  Residues: CYS503, CYS503, HCO601
+
+------------------------------
+
+Error 41:
+  Line: 35096
+  Message: No default U-B types
+  Atoms involved: 4495, 4498, 5688
+  Atom names: CB, SG, FE3
+  Atom types: C1O, S1O, FEJO
+  Residues: CYS503, CYS503, F4O602
+
+------------------------------
+
+Error 42:
+  Line: 35097
+  Message: No default U-B types
+  Atoms involved: 5664, 4498, 5688
+  Atom names: FE1, SG, FE3
+  Atom types: FEM1, S1O, FEJO
+  Residues: HCO601, CYS503, F4O602
+
+------------------------------
+
+Error 43:
+  Line: 37233
+  Message: No default U-B types
+  Atoms involved: 4498, 5664, 5666
+  Atom names: SG, FE1, S1
+  Atom types: S1O, FEM1, SM1
+  Residues: CYS503, HCO601, HCO601
+
+------------------------------
+
+Error 44:
+  Line: 37234
+  Message: No default U-B types
+  Atoms involved: 4498, 5664, 5667
+  Atom names: SG, FE1, S2
+  Atom types: S1O, FEM1, SM2
+  Residues: CYS503, HCO601, HCO601
+
+------------------------------
+
+Error 45:
+  Line: 37235
+  Message: No default U-B types
+  Atoms involved: 4498, 5664, 5673
+  Atom names: SG, FE1, C3
+  Atom types: S1O, FEM1, CMO1
+  Residues: CYS503, HCO601, HCO601
+
+------------------------------
+
+Error 46:
+  Line: 37236
+  Message: No default U-B types
+  Atoms involved: 4498, 5664, 5674
+  Atom names: SG, FE1, C4
+  Atom types: S1O, FEM1, CMN1
+  Residues: CYS503, HCO601, HCO601
+
+------------------------------
+
+Error 47:
+  Line: 37237
+  Message: No default U-B types
+  Atoms involved: 4498, 5664, 5675
+  Atom names: SG, FE1, C5
+  Atom types: S1O, FEM1, CMC
+  Residues: CYS503, HCO601, HCO601
+
+------------------------------
+
+Error 48:
+  Line: 37286
+  Message: No default U-B types
+  Atoms involved: 2249, 5686, 5687
+  Atom names: SG, FE1, FE2
+  Atom types: S1O, FEJO, FEJO
+  Residues: CYS355, F4O602, F4O602
+
+------------------------------
+
+Error 49:
+  Line: 37287
+  Message: No default U-B types
+  Atoms involved: 2249, 5686, 5688
+  Atom names: SG, FE1, FE3
+  Atom types: S1O, FEJO, FEJO
+  Residues: CYS355, F4O602, F4O602
+
+------------------------------
+
+Error 50:
+  Line: 37288
+  Message: No default U-B types
+  Atoms involved: 2249, 5686, 5689
+  Atom names: SG, FE1, FE4
+  Atom types: S1O, FEJO, FEJO
+  Residues: CYS355, F4O602, F4O602
+
+------------------------------
+
+Error 51:
+  Line: 37289
+  Message: No default U-B types
+  Atoms involved: 2249, 5686, 5690
+  Atom names: SG, FE1, S1
+  Atom types: S1O, FEJO, SJO
+  Residues: CYS355, F4O602, F4O602
+
+------------------------------
+
+Error 52:
+  Line: 37290
+  Message: No default U-B types
+  Atoms involved: 2249, 5686, 5691
+  Atom names: SG, FE1, S2
+  Atom types: S1O, FEJO, SJO
+  Residues: CYS355, F4O602, F4O602
+
+------------------------------
+
+Error 53:
+  Line: 37291
+  Message: No default U-B types
+  Atoms involved: 2249, 5686, 5692
+  Atom names: SG, FE1, S3
+  Atom types: S1O, FEJO, SJO
+  Residues: CYS355, F4O602, F4O602
+
+------------------------------
+
+Error 54:
+  Line: 37307
+  Message: No default U-B types
+  Atoms involved: 1400, 5687, 5686
+  Atom names: SG, FE2, FE1
+  Atom types: S1O, FEJO, FEJO
+  Residues: CYS300, F4O602, F4O602
+
+------------------------------
+
+Error 55:
+  Line: 37308
+  Message: No default U-B types
+  Atoms involved: 1400, 5687, 5688
+  Atom names: SG, FE2, FE3
+  Atom types: S1O, FEJO, FEJO
+  Residues: CYS300, F4O602, F4O602
+
+------------------------------
+
+Error 56:
+  Line: 37309
+  Message: No default U-B types
+  Atoms involved: 1400, 5687, 5689
+  Atom names: SG, FE2, FE4
+  Atom types: S1O, FEJO, FEJO
+  Residues: CYS300, F4O602, F4O602
+
+------------------------------
+
+Error 57:
+  Line: 37310
+  Message: No default U-B types
+  Atoms involved: 1400, 5687, 5690
+  Atom names: SG, FE2, S1
+  Atom types: S1O, FEJO, SJO
+  Residues: CYS300, F4O602, F4O602
+
+------------------------------
+
+Error 58:
+  Line: 37311
+  Message: No default U-B types
+  Atoms involved: 1400, 5687, 5691
+  Atom names: SG, FE2, S2
+  Atom types: S1O, FEJO, SJO
+  Residues: CYS300, F4O602, F4O602
+
+------------------------------
+
+Error 59:
+  Line: 37312
+  Message: No default U-B types
+  Atoms involved: 1400, 5687, 5693
+  Atom names: SG, FE2, S4
+  Atom types: S1O, FEJO, SJO
+  Residues: CYS300, F4O602, F4O602
+
+------------------------------
+
+Error 60:
+  Line: 37328
+  Message: No default U-B types
+  Atoms involved: 4498, 5688, 5686
+  Atom names: SG, FE3, FE1
+  Atom types: S1O, FEJO, FEJO
+  Residues: CYS503, F4O602, F4O602
+
+------------------------------
+
+Error 61:
+  Line: 37329
+  Message: No default U-B types
+  Atoms involved: 4498, 5688, 5687
+  Atom names: SG, FE3, FE2
+  Atom types: S1O, FEJO, FEJO
+  Residues: CYS503, F4O602, F4O602
+
+------------------------------
+
+Error 62:
+  Line: 37330
+  Message: No default U-B types
+  Atoms involved: 4498, 5688, 5689
+  Atom names: SG, FE3, FE4
+  Atom types: S1O, FEJO, FEJO
+  Residues: CYS503, F4O602, F4O602
+
+------------------------------
+
+Error 63:
+  Line: 37331
+  Message: No default U-B types
+  Atoms involved: 4498, 5688, 5691
+  Atom names: SG, FE3, S2
+  Atom types: S1O, FEJO, SJO
+  Residues: CYS503, F4O602, F4O602
+
+------------------------------
+
+Error 64:
+  Line: 37332
+  Message: No default U-B types
+  Atoms involved: 4498, 5688, 5692
+  Atom names: SG, FE3, S3
+  Atom types: S1O, FEJO, SJO
+  Residues: CYS503, F4O602, F4O602
+
+------------------------------
+
+Error 65:
+  Line: 37333
+  Message: No default U-B types
+  Atoms involved: 4498, 5688, 5693
+  Atom names: SG, FE3, S4
+  Atom types: S1O, FEJO, SJO
+  Residues: CYS503, F4O602, F4O602
+
+------------------------------
+
+Error 66:
+  Line: 37349
+  Message: No default U-B types
+  Atoms involved: 4457, 5689, 5686
+  Atom names: SG, FE4, FE1
+  Atom types: S1O, FEJO, FEJO
+  Residues: CYS499, F4O602, F4O602
+
+------------------------------
+
+Error 67:
+  Line: 37350
+  Message: No default U-B types
+  Atoms involved: 4457, 5689, 5687
+  Atom names: SG, FE4, FE2
+  Atom types: S1O, FEJO, FEJO
+  Residues: CYS499, F4O602, F4O602
+
+------------------------------
+
+Error 68:
+  Line: 37351
+  Message: No default U-B types
+  Atoms involved: 4457, 5689, 5688
+  Atom names: SG, FE4, FE3
+  Atom types: S1O, FEJO, FEJO
+  Residues: CYS499, F4O602, F4O602
+
+------------------------------
+
+Error 69:
+  Line: 37352
+  Message: No default U-B types
+  Atoms involved: 4457, 5689, 5690
+  Atom names: SG, FE4, S1
+  Atom types: S1O, FEJO, SJO
+  Residues: CYS499, F4O602, F4O602
+
+------------------------------
+
+Error 70:
+  Line: 37353
+  Message: No default U-B types
+  Atoms involved: 4457, 5689, 5692
+  Atom names: SG, FE4, S3
+  Atom types: S1O, FEJO, SJO
+  Residues: CYS499, F4O602, F4O602
+
+------------------------------
+
+Error 71:
+  Line: 37354
+  Message: No default U-B types
+  Atoms involved: 4457, 5689, 5693
+  Atom names: SG, FE4, S4
+  Atom types: S1O, FEJO, SJO
+  Residues: CYS499, F4O602, F4O602
+
+------------------------------
+
+Error 72:
+  Line: 41080
+  Message: No default Proper Dih. types
+  Atoms involved: 1391, 1393, 1395, 1397
+  Atom names: C, N, CA, CB
+  Atom types: C, NH1, CT1, C1O
+  Residues: CYS299, CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 73:
+  Line: 41083
+  Message: No default Proper Dih. types
+  Atoms involved: 1394, 1393, 1395, 1397
+  Atom names: HN, N, CA, CB
+  Atom types: H, NH1, CT1, C1O
+  Residues: CYS300, CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 74:
+  Line: 41085
+  Message: No default Proper Dih. types
+  Atoms involved: 1393, 1395, 1397, 1398
+  Atom names: N, CA, CB, HB1
+  Atom types: NH1, CT1, C1O, HA2
+  Residues: CYS300, CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 75:
+  Line: 41086
+  Message: No default Proper Dih. types
+  Atoms involved: 1393, 1395, 1397, 1399
+  Atom names: N, CA, CB, HB2
+  Atom types: NH1, CT1, C1O, HA2
+  Residues: CYS300, CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 76:
+  Line: 41087
+  Message: No default Proper Dih. types
+  Atoms involved: 1393, 1395, 1397, 1400
+  Atom names: N, CA, CB, SG
+  Atom types: NH1, CT1, C1O, S1O
+  Residues: CYS300, CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 77:
+  Line: 41088
+  Message: No default Proper Dih. types
+  Atoms involved: 1396, 1395, 1397, 1398
+  Atom names: HA, CA, CB, HB1
+  Atom types: HB1, CT1, C1O, HA2
+  Residues: CYS300, CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 78:
+  Line: 41089
+  Message: No default Proper Dih. types
+  Atoms involved: 1396, 1395, 1397, 1399
+  Atom names: HA, CA, CB, HB2
+  Atom types: HB1, CT1, C1O, HA2
+  Residues: CYS300, CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 79:
+  Line: 41090
+  Message: No default Proper Dih. types
+  Atoms involved: 1396, 1395, 1397, 1400
+  Atom names: HA, CA, CB, SG
+  Atom types: HB1, CT1, C1O, S1O
+  Residues: CYS300, CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 80:
+  Line: 41091
+  Message: No default Proper Dih. types
+  Atoms involved: 1401, 1395, 1397, 1398
+  Atom names: C, CA, CB, HB1
+  Atom types: C, CT1, C1O, HA2
+  Residues: CYS300, CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 81:
+  Line: 41092
+  Message: No default Proper Dih. types
+  Atoms involved: 1401, 1395, 1397, 1399
+  Atom names: C, CA, CB, HB2
+  Atom types: C, CT1, C1O, HA2
+  Residues: CYS300, CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 82:
+  Line: 41093
+  Message: No default Proper Dih. types
+  Atoms involved: 1401, 1395, 1397, 1400
+  Atom names: C, CA, CB, SG
+  Atom types: C, CT1, C1O, S1O
+  Residues: CYS300, CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 83:
+  Line: 41098
+  Message: No default Proper Dih. types
+  Atoms involved: 1397, 1395, 1401, 1402
+  Atom names: CB, CA, C, O
+  Atom types: C1O, CT1, C, O
+  Residues: CYS300, CYS300, CYS300, CYS300
+
+------------------------------
+
+Error 84:
+  Line: 41099
+  Message: No default Proper Dih. types
+  Atoms involved: 1397, 1395, 1401, 1403
+  Atom names: CB, CA, C, N
+  Atom types: C1O, CT1, C, N
+  Residues: CYS300, CYS300, CYS300, PRO301
+
+------------------------------
+
+Error 85:
+  Line: 41100
+  Message: No default Proper Dih. types
+  Atoms involved: 1395, 1397, 1400, 5687
+  Atom names: CA, CB, SG, FE2
+  Atom types: CT1, C1O, S1O, FEJO
+  Residues: CYS300, CYS300, CYS300, F4O602
+
+------------------------------
+
+Error 86:
+  Line: 41101
+  Message: No default Proper Dih. types
+  Atoms involved: 1398, 1397, 1400, 5687
+  Atom names: HB1, CB, SG, FE2
+  Atom types: HA2, C1O, S1O, FEJO
+  Residues: CYS300, CYS300, CYS300, F4O602
+
+------------------------------
+
+Error 87:
+  Line: 41102
+  Message: No default Proper Dih. types
+  Atoms involved: 1399, 1397, 1400, 5687
+  Atom names: HB2, CB, SG, FE2
+  Atom types: HA2, C1O, S1O, FEJO
+  Residues: CYS300, CYS300, CYS300, F4O602
+
+------------------------------
+
+Error 88:
+  Line: 41103
+  Message: No default Proper Dih. types
+  Atoms involved: 1397, 1400, 5687, 5686
+  Atom names: CB, SG, FE2, FE1
+  Atom types: C1O, S1O, FEJO, FEJO
+  Residues: CYS300, CYS300, F4O602, F4O602
+
+------------------------------
+
+Error 89:
+  Line: 41104
+  Message: No default Proper Dih. types
+  Atoms involved: 1397, 1400, 5687, 5688
+  Atom names: CB, SG, FE2, FE3
+  Atom types: C1O, S1O, FEJO, FEJO
+  Residues: CYS300, CYS300, F4O602, F4O602
+
+------------------------------
+
+Error 90:
+  Line: 41105
+  Message: No default Proper Dih. types
+  Atoms involved: 1397, 1400, 5687, 5689
+  Atom names: CB, SG, FE2, FE4
+  Atom types: C1O, S1O, FEJO, FEJO
+  Residues: CYS300, CYS300, F4O602, F4O602
+
+------------------------------
+
+Error 91:
+  Line: 41106
+  Message: No default Proper Dih. types
+  Atoms involved: 1397, 1400, 5687, 5690
+  Atom names: CB, SG, FE2, S1
+  Atom types: C1O, S1O, FEJO, SJO
+  Residues: CYS300, CYS300, F4O602, F4O602
+
+------------------------------
+
+Error 92:
+  Line: 41107
+  Message: No default Proper Dih. types
+  Atoms involved: 1397, 1400, 5687, 5691
+  Atom names: CB, SG, FE2, S2
+  Atom types: C1O, S1O, FEJO, SJO
+  Residues: CYS300, CYS300, F4O602, F4O602
+
+------------------------------
+
+Error 93:
+  Line: 41108
+  Message: No default Proper Dih. types
+  Atoms involved: 1397, 1400, 5687, 5693
+  Atom names: CB, SG, FE2, S4
+  Atom types: C1O, S1O, FEJO, SJO
+  Residues: CYS300, CYS300, F4O602, F4O602
+
+------------------------------
+
+Error 94:
+  Line: 43407
+  Message: No default Proper Dih. types
+  Atoms involved: 2240, 2242, 2244, 2246
+  Atom names: C, N, CA, CB
+  Atom types: C, NH1, CT1, C1O
+  Residues: PRO354, CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 95:
+  Line: 43410
+  Message: No default Proper Dih. types
+  Atoms involved: 2243, 2242, 2244, 2246
+  Atom names: HN, N, CA, CB
+  Atom types: H, NH1, CT1, C1O
+  Residues: CYS355, CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 96:
+  Line: 43412
+  Message: No default Proper Dih. types
+  Atoms involved: 2242, 2244, 2246, 2247
+  Atom names: N, CA, CB, HB1
+  Atom types: NH1, CT1, C1O, HA2
+  Residues: CYS355, CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 97:
+  Line: 43413
+  Message: No default Proper Dih. types
+  Atoms involved: 2242, 2244, 2246, 2248
+  Atom names: N, CA, CB, HB2
+  Atom types: NH1, CT1, C1O, HA2
+  Residues: CYS355, CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 98:
+  Line: 43414
+  Message: No default Proper Dih. types
+  Atoms involved: 2242, 2244, 2246, 2249
+  Atom names: N, CA, CB, SG
+  Atom types: NH1, CT1, C1O, S1O
+  Residues: CYS355, CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 99:
+  Line: 43415
+  Message: No default Proper Dih. types
+  Atoms involved: 2245, 2244, 2246, 2247
+  Atom names: HA, CA, CB, HB1
+  Atom types: HB1, CT1, C1O, HA2
+  Residues: CYS355, CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 100:
+  Line: 43416
+  Message: No default Proper Dih. types
+  Atoms involved: 2245, 2244, 2246, 2248
+  Atom names: HA, CA, CB, HB2
+  Atom types: HB1, CT1, C1O, HA2
+  Residues: CYS355, CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 101:
+  Line: 43417
+  Message: No default Proper Dih. types
+  Atoms involved: 2245, 2244, 2246, 2249
+  Atom names: HA, CA, CB, SG
+  Atom types: HB1, CT1, C1O, S1O
+  Residues: CYS355, CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 102:
+  Line: 43418
+  Message: No default Proper Dih. types
+  Atoms involved: 2250, 2244, 2246, 2247
+  Atom names: C, CA, CB, HB1
+  Atom types: C, CT1, C1O, HA2
+  Residues: CYS355, CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 103:
+  Line: 43419
+  Message: No default Proper Dih. types
+  Atoms involved: 2250, 2244, 2246, 2248
+  Atom names: C, CA, CB, HB2
+  Atom types: C, CT1, C1O, HA2
+  Residues: CYS355, CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 104:
+  Line: 43420
+  Message: No default Proper Dih. types
+  Atoms involved: 2250, 2244, 2246, 2249
+  Atom names: C, CA, CB, SG
+  Atom types: C, CT1, C1O, S1O
+  Residues: CYS355, CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 105:
+  Line: 43425
+  Message: No default Proper Dih. types
+  Atoms involved: 2246, 2244, 2250, 2251
+  Atom names: CB, CA, C, O
+  Atom types: C1O, CT1, C, O
+  Residues: CYS355, CYS355, CYS355, CYS355
+
+------------------------------
+
+Error 106:
+  Line: 43426
+  Message: No default Proper Dih. types
+  Atoms involved: 2246, 2244, 2250, 2252
+  Atom names: CB, CA, C, N
+  Atom types: C1O, CT1, C, NH1
+  Residues: CYS355, CYS355, CYS355, THR356
+
+------------------------------
+
+Error 107:
+  Line: 43427
+  Message: No default Proper Dih. types
+  Atoms involved: 2244, 2246, 2249, 5686
+  Atom names: CA, CB, SG, FE1
+  Atom types: CT1, C1O, S1O, FEJO
+  Residues: CYS355, CYS355, CYS355, F4O602
+
+------------------------------
+
+Error 108:
+  Line: 43428
+  Message: No default Proper Dih. types
+  Atoms involved: 2247, 2246, 2249, 5686
+  Atom names: HB1, CB, SG, FE1
+  Atom types: HA2, C1O, S1O, FEJO
+  Residues: CYS355, CYS355, CYS355, F4O602
+
+------------------------------
+
+Error 109:
+  Line: 43429
+  Message: No default Proper Dih. types
+  Atoms involved: 2248, 2246, 2249, 5686
+  Atom names: HB2, CB, SG, FE1
+  Atom types: HA2, C1O, S1O, FEJO
+  Residues: CYS355, CYS355, CYS355, F4O602
+
+------------------------------
+
+Error 110:
+  Line: 43430
+  Message: No default Proper Dih. types
+  Atoms involved: 2246, 2249, 5686, 5687
+  Atom names: CB, SG, FE1, FE2
+  Atom types: C1O, S1O, FEJO, FEJO
+  Residues: CYS355, CYS355, F4O602, F4O602
+
+------------------------------
+
+Error 111:
+  Line: 43431
+  Message: No default Proper Dih. types
+  Atoms involved: 2246, 2249, 5686, 5688
+  Atom names: CB, SG, FE1, FE3
+  Atom types: C1O, S1O, FEJO, FEJO
+  Residues: CYS355, CYS355, F4O602, F4O602
+
+------------------------------
+
+Error 112:
+  Line: 43432
+  Message: No default Proper Dih. types
+  Atoms involved: 2246, 2249, 5686, 5689
+  Atom names: CB, SG, FE1, FE4
+  Atom types: C1O, S1O, FEJO, FEJO
+  Residues: CYS355, CYS355, F4O602, F4O602
+
+------------------------------
+
+Error 113:
+  Line: 43433
+  Message: No default Proper Dih. types
+  Atoms involved: 2246, 2249, 5686, 5690
+  Atom names: CB, SG, FE1, S1
+  Atom types: C1O, S1O, FEJO, SJO
+  Residues: CYS355, CYS355, F4O602, F4O602
+
+------------------------------
+
+Error 114:
+  Line: 43434
+  Message: No default Proper Dih. types
+  Atoms involved: 2246, 2249, 5686, 5691
+  Atom names: CB, SG, FE1, S2
+  Atom types: C1O, S1O, FEJO, SJO
+  Residues: CYS355, CYS355, F4O602, F4O602
+
+------------------------------
+
+Error 115:
+  Line: 43435
+  Message: No default Proper Dih. types
+  Atoms involved: 2246, 2249, 5686, 5692
+  Atom names: CB, SG, FE1, S3
+  Atom types: C1O, S1O, FEJO, SJO
+  Residues: CYS355, CYS355, F4O602, F4O602
+
+------------------------------
+
+Error 116:
+  Line: 49257
+  Message: No default Proper Dih. types
+  Atoms involved: 4448, 4450, 4452, 4454
+  Atom names: C, N, CA, CB
+  Atom types: C, NH1, CT1, C1O
+  Residues: ALA498, CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 117:
+  Line: 49260
+  Message: No default Proper Dih. types
+  Atoms involved: 4451, 4450, 4452, 4454
+  Atom names: HN, N, CA, CB
+  Atom types: H, NH1, CT1, C1O
+  Residues: CYS499, CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 118:
+  Line: 49262
+  Message: No default Proper Dih. types
+  Atoms involved: 4450, 4452, 4454, 4455
+  Atom names: N, CA, CB, HB1
+  Atom types: NH1, CT1, C1O, HA2
+  Residues: CYS499, CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 119:
+  Line: 49263
+  Message: No default Proper Dih. types
+  Atoms involved: 4450, 4452, 4454, 4456
+  Atom names: N, CA, CB, HB2
+  Atom types: NH1, CT1, C1O, HA2
+  Residues: CYS499, CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 120:
+  Line: 49264
+  Message: No default Proper Dih. types
+  Atoms involved: 4450, 4452, 4454, 4457
+  Atom names: N, CA, CB, SG
+  Atom types: NH1, CT1, C1O, S1O
+  Residues: CYS499, CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 121:
+  Line: 49265
+  Message: No default Proper Dih. types
+  Atoms involved: 4453, 4452, 4454, 4455
+  Atom names: HA, CA, CB, HB1
+  Atom types: HB1, CT1, C1O, HA2
+  Residues: CYS499, CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 122:
+  Line: 49266
+  Message: No default Proper Dih. types
+  Atoms involved: 4453, 4452, 4454, 4456
+  Atom names: HA, CA, CB, HB2
+  Atom types: HB1, CT1, C1O, HA2
+  Residues: CYS499, CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 123:
+  Line: 49267
+  Message: No default Proper Dih. types
+  Atoms involved: 4453, 4452, 4454, 4457
+  Atom names: HA, CA, CB, SG
+  Atom types: HB1, CT1, C1O, S1O
+  Residues: CYS499, CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 124:
+  Line: 49268
+  Message: No default Proper Dih. types
+  Atoms involved: 4458, 4452, 4454, 4455
+  Atom names: C, CA, CB, HB1
+  Atom types: C, CT1, C1O, HA2
+  Residues: CYS499, CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 125:
+  Line: 49269
+  Message: No default Proper Dih. types
+  Atoms involved: 4458, 4452, 4454, 4456
+  Atom names: C, CA, CB, HB2
+  Atom types: C, CT1, C1O, HA2
+  Residues: CYS499, CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 126:
+  Line: 49270
+  Message: No default Proper Dih. types
+  Atoms involved: 4458, 4452, 4454, 4457
+  Atom names: C, CA, CB, SG
+  Atom types: C, CT1, C1O, S1O
+  Residues: CYS499, CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 127:
+  Line: 49275
+  Message: No default Proper Dih. types
+  Atoms involved: 4454, 4452, 4458, 4459
+  Atom names: CB, CA, C, O
+  Atom types: C1O, CT1, C, O
+  Residues: CYS499, CYS499, CYS499, CYS499
+
+------------------------------
+
+Error 128:
+  Line: 49276
+  Message: No default Proper Dih. types
+  Atoms involved: 4454, 4452, 4458, 4460
+  Atom names: CB, CA, C, N
+  Atom types: C1O, CT1, C, NH1
+  Residues: CYS499, CYS499, CYS499, HSD500
+
+------------------------------
+
+Error 129:
+  Line: 49277
+  Message: No default Proper Dih. types
+  Atoms involved: 4452, 4454, 4457, 5689
+  Atom names: CA, CB, SG, FE4
+  Atom types: CT1, C1O, S1O, FEJO
+  Residues: CYS499, CYS499, CYS499, F4O602
+
+------------------------------
+
+Error 130:
+  Line: 49278
+  Message: No default Proper Dih. types
+  Atoms involved: 4455, 4454, 4457, 5689
+  Atom names: HB1, CB, SG, FE4
+  Atom types: HA2, C1O, S1O, FEJO
+  Residues: CYS499, CYS499, CYS499, F4O602
+
+------------------------------
+
+Error 131:
+  Line: 49279
+  Message: No default Proper Dih. types
+  Atoms involved: 4456, 4454, 4457, 5689
+  Atom names: HB2, CB, SG, FE4
+  Atom types: HA2, C1O, S1O, FEJO
+  Residues: CYS499, CYS499, CYS499, F4O602
+
+------------------------------
+
+Error 132:
+  Line: 49280
+  Message: No default Proper Dih. types
+  Atoms involved: 4454, 4457, 5689, 5686
+  Atom names: CB, SG, FE4, FE1
+  Atom types: C1O, S1O, FEJO, FEJO
+  Residues: CYS499, CYS499, F4O602, F4O602
+
+------------------------------
+
+Error 133:
+  Line: 49281
+  Message: No default Proper Dih. types
+  Atoms involved: 4454, 4457, 5689, 5687
+  Atom names: CB, SG, FE4, FE2
+  Atom types: C1O, S1O, FEJO, FEJO
+  Residues: CYS499, CYS499, F4O602, F4O602
+
+------------------------------
+
+Error 134:
+  Line: 49282
+  Message: No default Proper Dih. types
+  Atoms involved: 4454, 4457, 5689, 5688
+  Atom names: CB, SG, FE4, FE3
+  Atom types: C1O, S1O, FEJO, FEJO
+  Residues: CYS499, CYS499, F4O602, F4O602
+
+------------------------------
+
+Error 135:
+  Line: 49283
+  Message: No default Proper Dih. types
+  Atoms involved: 4454, 4457, 5689, 5690
+  Atom names: CB, SG, FE4, S1
+  Atom types: C1O, S1O, FEJO, SJO
+  Residues: CYS499, CYS499, F4O602, F4O602
+
+------------------------------
+
+Error 136:
+  Line: 49284
+  Message: No default Proper Dih. types
+  Atoms involved: 4454, 4457, 5689, 5692
+  Atom names: CB, SG, FE4, S3
+  Atom types: C1O, S1O, FEJO, SJO
+  Residues: CYS499, CYS499, F4O602, F4O602
+
+------------------------------
+
+Error 137:
+  Line: 49285
+  Message: No default Proper Dih. types
+  Atoms involved: 4454, 4457, 5689, 5693
+  Atom names: CB, SG, FE4, S4
+  Atom types: C1O, S1O, FEJO, SJO
+  Residues: CYS499, CYS499, F4O602, F4O602
+
+------------------------------
+
+Error 138:
+  Line: 49370
+  Message: No default Proper Dih. types
+  Atoms involved: 4489, 4491, 4493, 4495
+  Atom names: C, N, CA, CB
+  Atom types: C, NH1, CT1, C1O
+  Residues: GLY502, CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 139:
+  Line: 49373
+  Message: No default Proper Dih. types
+  Atoms involved: 4492, 4491, 4493, 4495
+  Atom names: HN, N, CA, CB
+  Atom types: H, NH1, CT1, C1O
+  Residues: CYS503, CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 140:
+  Line: 49375
+  Message: No default Proper Dih. types
+  Atoms involved: 4491, 4493, 4495, 4496
+  Atom names: N, CA, CB, HB1
+  Atom types: NH1, CT1, C1O, HA2
+  Residues: CYS503, CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 141:
+  Line: 49376
+  Message: No default Proper Dih. types
+  Atoms involved: 4491, 4493, 4495, 4497
+  Atom names: N, CA, CB, HB2
+  Atom types: NH1, CT1, C1O, HA2
+  Residues: CYS503, CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 142:
+  Line: 49377
+  Message: No default Proper Dih. types
+  Atoms involved: 4491, 4493, 4495, 4498
+  Atom names: N, CA, CB, SG
+  Atom types: NH1, CT1, C1O, S1O
+  Residues: CYS503, CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 143:
+  Line: 49378
+  Message: No default Proper Dih. types
+  Atoms involved: 4494, 4493, 4495, 4496
+  Atom names: HA, CA, CB, HB1
+  Atom types: HB1, CT1, C1O, HA2
+  Residues: CYS503, CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 144:
+  Line: 49379
+  Message: No default Proper Dih. types
+  Atoms involved: 4494, 4493, 4495, 4497
+  Atom names: HA, CA, CB, HB2
+  Atom types: HB1, CT1, C1O, HA2
+  Residues: CYS503, CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 145:
+  Line: 49380
+  Message: No default Proper Dih. types
+  Atoms involved: 4494, 4493, 4495, 4498
+  Atom names: HA, CA, CB, SG
+  Atom types: HB1, CT1, C1O, S1O
+  Residues: CYS503, CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 146:
+  Line: 49381
+  Message: No default Proper Dih. types
+  Atoms involved: 4499, 4493, 4495, 4496
+  Atom names: C, CA, CB, HB1
+  Atom types: C, CT1, C1O, HA2
+  Residues: CYS503, CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 147:
+  Line: 49382
+  Message: No default Proper Dih. types
+  Atoms involved: 4499, 4493, 4495, 4497
+  Atom names: C, CA, CB, HB2
+  Atom types: C, CT1, C1O, HA2
+  Residues: CYS503, CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 148:
+  Line: 49383
+  Message: No default Proper Dih. types
+  Atoms involved: 4499, 4493, 4495, 4498
+  Atom names: C, CA, CB, SG
+  Atom types: C, CT1, C1O, S1O
+  Residues: CYS503, CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 149:
+  Line: 49388
+  Message: No default Proper Dih. types
+  Atoms involved: 4495, 4493, 4499, 4500
+  Atom names: CB, CA, C, O
+  Atom types: C1O, CT1, C, O
+  Residues: CYS503, CYS503, CYS503, CYS503
+
+------------------------------
+
+Error 150:
+  Line: 49389
+  Message: No default Proper Dih. types
+  Atoms involved: 4495, 4493, 4499, 4501
+  Atom names: CB, CA, C, N
+  Atom types: C1O, CT1, C, NH1
+  Residues: CYS503, CYS503, CYS503, VAL504
+
+------------------------------
+
+Error 151:
+  Line: 49390
+  Message: No default Proper Dih. types
+  Atoms involved: 4493, 4495, 4498, 5664
+  Atom names: CA, CB, SG, FE1
+  Atom types: CT1, C1O, S1O, FEM1
+  Residues: CYS503, CYS503, CYS503, HCO601
+
+------------------------------
+
+Error 152:
+  Line: 49391
+  Message: No default Proper Dih. types
+  Atoms involved: 4493, 4495, 4498, 5688
+  Atom names: CA, CB, SG, FE3
+  Atom types: CT1, C1O, S1O, FEJO
+  Residues: CYS503, CYS503, CYS503, F4O602
+
+------------------------------
+
+Error 153:
+  Line: 49392
+  Message: No default Proper Dih. types
+  Atoms involved: 4496, 4495, 4498, 5664
+  Atom names: HB1, CB, SG, FE1
+  Atom types: HA2, C1O, S1O, FEM1
+  Residues: CYS503, CYS503, CYS503, HCO601
+
+------------------------------
+
+Error 154:
+  Line: 49393
+  Message: No default Proper Dih. types
+  Atoms involved: 4496, 4495, 4498, 5688
+  Atom names: HB1, CB, SG, FE3
+  Atom types: HA2, C1O, S1O, FEJO
+  Residues: CYS503, CYS503, CYS503, F4O602
+
+------------------------------
+
+Error 155:
+  Line: 49394
+  Message: No default Proper Dih. types
+  Atoms involved: 4497, 4495, 4498, 5664
+  Atom names: HB2, CB, SG, FE1
+  Atom types: HA2, C1O, S1O, FEM1
+  Residues: CYS503, CYS503, CYS503, HCO601
+
+------------------------------
+
+Error 156:
+  Line: 49395
+  Message: No default Proper Dih. types
+  Atoms involved: 4497, 4495, 4498, 5688
+  Atom names: HB2, CB, SG, FE3
+  Atom types: HA2, C1O, S1O, FEJO
+  Residues: CYS503, CYS503, CYS503, F4O602
+
+------------------------------
+
+Error 157:
+  Line: 49396
+  Message: No default Proper Dih. types
+  Atoms involved: 4495, 4498, 5664, 5666
+  Atom names: CB, SG, FE1, S1
+  Atom types: C1O, S1O, FEM1, SM1
+  Residues: CYS503, CYS503, HCO601, HCO601
+
+------------------------------
+
+Error 158:
+  Line: 49397
+  Message: No default Proper Dih. types
+  Atoms involved: 4495, 4498, 5664, 5667
+  Atom names: CB, SG, FE1, S2
+  Atom types: C1O, S1O, FEM1, SM2
+  Residues: CYS503, CYS503, HCO601, HCO601
+
+------------------------------
+
+Error 159:
+  Line: 49398
+  Message: No default Proper Dih. types
+  Atoms involved: 4495, 4498, 5664, 5673
+  Atom names: CB, SG, FE1, C3
+  Atom types: C1O, S1O, FEM1, CMO1
+  Residues: CYS503, CYS503, HCO601, HCO601
+
+------------------------------
+
+Error 160:
+  Line: 49399
+  Message: No default Proper Dih. types
+  Atoms involved: 4495, 4498, 5664, 5674
+  Atom names: CB, SG, FE1, C4
+  Atom types: C1O, S1O, FEM1, CMN1
+  Residues: CYS503, CYS503, HCO601, HCO601
+
+------------------------------
+
+Error 161:
+  Line: 49400
+  Message: No default Proper Dih. types
+  Atoms involved: 4495, 4498, 5664, 5675
+  Atom names: CB, SG, FE1, C5
+  Atom types: C1O, S1O, FEM1, CMC
+  Residues: CYS503, CYS503, HCO601, HCO601
+
+------------------------------
+
+Error 162:
+  Line: 49401
+  Message: No default Proper Dih. types
+  Atoms involved: 5688, 4498, 5664, 5666
+  Atom names: FE3, SG, FE1, S1
+  Atom types: FEJO, S1O, FEM1, SM1
+  Residues: F4O602, CYS503, HCO601, HCO601
+
+------------------------------
+
+Error 163:
+  Line: 49402
+  Message: No default Proper Dih. types
+  Atoms involved: 5688, 4498, 5664, 5667
+  Atom names: FE3, SG, FE1, S2
+  Atom types: FEJO, S1O, FEM1, SM2
+  Residues: F4O602, CYS503, HCO601, HCO601
+
+------------------------------
+
+Error 164:
+  Line: 49403
+  Message: No default Proper Dih. types
+  Atoms involved: 5688, 4498, 5664, 5673
+  Atom names: FE3, SG, FE1, C3
+  Atom types: FEJO, S1O, FEM1, CMO1
+  Residues: F4O602, CYS503, HCO601, HCO601
+
+------------------------------
+
+Error 165:
+  Line: 49404
+  Message: No default Proper Dih. types
+  Atoms involved: 5688, 4498, 5664, 5674
+  Atom names: FE3, SG, FE1, C4
+  Atom types: FEJO, S1O, FEM1, CMN1
+  Residues: F4O602, CYS503, HCO601, HCO601
+
+------------------------------
+
+Error 166:
+  Line: 49405
+  Message: No default Proper Dih. types
+  Atoms involved: 5688, 4498, 5664, 5675
+  Atom names: FE3, SG, FE1, C5
+  Atom types: FEJO, S1O, FEM1, CMC
+  Residues: F4O602, CYS503, HCO601, HCO601
+
+------------------------------
+
+Error 167:
+  Line: 49406
+  Message: No default Proper Dih. types
+  Atoms involved: 4495, 4498, 5688, 5686
+  Atom names: CB, SG, FE3, FE1
+  Atom types: C1O, S1O, FEJO, FEJO
+  Residues: CYS503, CYS503, F4O602, F4O602
+
+------------------------------
+
+Error 168:
+  Line: 49407
+  Message: No default Proper Dih. types
+  Atoms involved: 4495, 4498, 5688, 5687
+  Atom names: CB, SG, FE3, FE2
+  Atom types: C1O, S1O, FEJO, FEJO
+  Residues: CYS503, CYS503, F4O602, F4O602
+
+------------------------------
+
+Error 169:
+  Line: 49408
+  Message: No default Proper Dih. types
+  Atoms involved: 4495, 4498, 5688, 5689
+  Atom names: CB, SG, FE3, FE4
+  Atom types: C1O, S1O, FEJO, FEJO
+  Residues: CYS503, CYS503, F4O602, F4O602
+
+------------------------------
+
+Error 170:
+  Line: 49409
+  Message: No default Proper Dih. types
+  Atoms involved: 4495, 4498, 5688, 5691
+  Atom names: CB, SG, FE3, S2
+  Atom types: C1O, S1O, FEJO, SJO
+  Residues: CYS503, CYS503, F4O602, F4O602
+
+------------------------------
+
+Error 171:
+  Line: 49410
+  Message: No default Proper Dih. types
+  Atoms involved: 4495, 4498, 5688, 5692
+  Atom names: CB, SG, FE3, S3
+  Atom types: C1O, S1O, FEJO, SJO
+  Residues: CYS503, CYS503, F4O602, F4O602
+
+------------------------------
+
+Error 172:
+  Line: 49411
+  Message: No default Proper Dih. types
+  Atoms involved: 4495, 4498, 5688, 5693
+  Atom names: CB, SG, FE3, S4
+  Atom types: C1O, S1O, FEJO, SJO
+  Residues: CYS503, CYS503, F4O602, F4O602
+
+------------------------------
+
+Error 173:
+  Line: 49412
+  Message: No default Proper Dih. types
+  Atoms involved: 5664, 4498, 5688, 5686
+  Atom names: FE1, SG, FE3, FE1
+  Atom types: FEM1, S1O, FEJO, FEJO
+  Residues: HCO601, CYS503, F4O602, F4O602
+
+------------------------------
+
+Error 174:
+  Line: 49413
+  Message: No default Proper Dih. types
+  Atoms involved: 5664, 4498, 5688, 5687
+  Atom names: FE1, SG, FE3, FE2
+  Atom types: FEM1, S1O, FEJO, FEJO
+  Residues: HCO601, CYS503, F4O602, F4O602
+
+------------------------------
+
+Error 175:
+  Line: 49414
+  Message: No default Proper Dih. types
+  Atoms involved: 5664, 4498, 5688, 5689
+  Atom names: FE1, SG, FE3, FE4
+  Atom types: FEM1, S1O, FEJO, FEJO
+  Residues: HCO601, CYS503, F4O602, F4O602
+
+------------------------------
+
+Error 176:
+  Line: 49415
+  Message: No default Proper Dih. types
+  Atoms involved: 5664, 4498, 5688, 5691
+  Atom names: FE1, SG, FE3, S2
+  Atom types: FEM1, S1O, FEJO, SJO
+  Residues: HCO601, CYS503, F4O602, F4O602
+
+------------------------------
+
+Error 177:
+  Line: 49416
+  Message: No default Proper Dih. types
+  Atoms involved: 5664, 4498, 5688, 5692
+  Atom names: FE1, SG, FE3, S3
+  Atom types: FEM1, S1O, FEJO, SJO
+  Residues: HCO601, CYS503, F4O602, F4O602
+
+------------------------------
+
+Error 178:
+  Line: 49417
+  Message: No default Proper Dih. types
+  Atoms involved: 5664, 4498, 5688, 5693
+  Atom names: FE1, SG, FE3, S4
+  Atom types: FEM1, S1O, FEJO, SJO
+  Residues: HCO601, CYS503, F4O602, F4O602
+
+------------------------------
+
+Error 179:
+  Line: 52552
+  Message: No default Proper Dih. types
+  Atoms involved: 4498, 5664, 5666, 5665
+  Atom names: SG, FE1, S1, FE2
+  Atom types: S1O, FEM1, SM1, FEM2
+  Residues: CYS503, HCO601, HCO601, HCO601
+
+------------------------------
+
+Error 180:
+  Line: 52553
+  Message: No default Proper Dih. types
+  Atoms involved: 4498, 5664, 5666, 5680
+  Atom names: SG, FE1, S1, CB1
+  Atom types: S1O, FEM1, SM1, CCM1
+  Residues: CYS503, HCO601, HCO601, HCO601
+
+------------------------------
+
+Error 181:
+  Line: 52562
+  Message: No default Proper Dih. types
+  Atoms involved: 4498, 5664, 5667, 5665
+  Atom names: SG, FE1, S2, FE2
+  Atom types: S1O, FEM1, SM2, FEM2
+  Residues: CYS503, HCO601, HCO601, HCO601
+
+------------------------------
+
+Error 182:
+  Line: 52563
+  Message: No default Proper Dih. types
+  Atoms involved: 4498, 5664, 5667, 5683
+  Atom names: SG, FE1, S2, CA1
+  Atom types: S1O, FEM1, SM2, CCM1
+  Residues: CYS503, HCO601, HCO601, HCO601
+
+------------------------------
+
+Error 183:
+  Line: 52566
+  Message: No default Proper Dih. types
+  Atoms involved: 4498, 5664, 5673, 5668
+  Atom names: SG, FE1, C3, O3
+  Atom types: S1O, FEM1, CMO1, OM4
+  Residues: CYS503, HCO601, HCO601, HCO601
+
+------------------------------
+
+Error 184:
+  Line: 52571
+  Message: No default Proper Dih. types
+  Atoms involved: 4498, 5664, 5674, 5669
+  Atom names: SG, FE1, C4, N4
+  Atom types: S1O, FEM1, CMN1, NM5
+  Residues: CYS503, HCO601, HCO601, HCO601
+
+------------------------------
+
+Error 185:
+  Line: 52584
+  Message: No default Proper Dih. types
+  Atoms involved: 4498, 5664, 5675, 5665
+  Atom names: SG, FE1, C5, FE2
+  Atom types: S1O, FEM1, CMC, FEM2
+  Residues: CYS503, HCO601, HCO601, HCO601
+
+------------------------------
+
+Error 186:
+  Line: 52585
+  Message: No default Proper Dih. types
+  Atoms involved: 4498, 5664, 5675, 5670
+  Atom names: SG, FE1, C5, O5
+  Atom types: S1O, FEM1, CMC, OM6
+  Residues: CYS503, HCO601, HCO601, HCO601
+
+------------------------------
+
+Error 187:
+  Line: 52663
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5687, 1400
+  Atom names: SG, FE1, FE2, SG
+  Atom types: S1O, FEJO, FEJO, S1O
+  Residues: CYS355, F4O602, F4O602, CYS300
+
+------------------------------
+
+Error 188:
+  Line: 52664
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5687, 5688
+  Atom names: SG, FE1, FE2, FE3
+  Atom types: S1O, FEJO, FEJO, FEJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 189:
+  Line: 52665
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5687, 5689
+  Atom names: SG, FE1, FE2, FE4
+  Atom types: S1O, FEJO, FEJO, FEJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 190:
+  Line: 52666
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5687, 5690
+  Atom names: SG, FE1, FE2, S1
+  Atom types: S1O, FEJO, FEJO, SJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 191:
+  Line: 52667
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5687, 5691
+  Atom names: SG, FE1, FE2, S2
+  Atom types: S1O, FEJO, FEJO, SJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 192:
+  Line: 52668
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5687, 5693
+  Atom names: SG, FE1, FE2, S4
+  Atom types: S1O, FEJO, FEJO, SJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 193:
+  Line: 52669
+  Message: No default Proper Dih. types
+  Atoms involved: 5688, 5686, 5687, 1400
+  Atom names: FE3, FE1, FE2, SG
+  Atom types: FEJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS300
+
+------------------------------
+
+Error 194:
+  Line: 52670
+  Message: No default Proper Dih. types
+  Atoms involved: 5689, 5686, 5687, 1400
+  Atom names: FE4, FE1, FE2, SG
+  Atom types: FEJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS300
+
+------------------------------
+
+Error 195:
+  Line: 52671
+  Message: No default Proper Dih. types
+  Atoms involved: 5690, 5686, 5687, 1400
+  Atom names: S1, FE1, FE2, SG
+  Atom types: SJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS300
+
+------------------------------
+
+Error 196:
+  Line: 52672
+  Message: No default Proper Dih. types
+  Atoms involved: 5691, 5686, 5687, 1400
+  Atom names: S2, FE1, FE2, SG
+  Atom types: SJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS300
+
+------------------------------
+
+Error 197:
+  Line: 52673
+  Message: No default Proper Dih. types
+  Atoms involved: 5692, 5686, 5687, 1400
+  Atom names: S3, FE1, FE2, SG
+  Atom types: SJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS300
+
+------------------------------
+
+Error 198:
+  Line: 52695
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5688, 4498
+  Atom names: SG, FE1, FE3, SG
+  Atom types: S1O, FEJO, FEJO, S1O
+  Residues: CYS355, F4O602, F4O602, CYS503
+
+------------------------------
+
+Error 199:
+  Line: 52696
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5688, 5687
+  Atom names: SG, FE1, FE3, FE2
+  Atom types: S1O, FEJO, FEJO, FEJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 200:
+  Line: 52697
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5688, 5689
+  Atom names: SG, FE1, FE3, FE4
+  Atom types: S1O, FEJO, FEJO, FEJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 201:
+  Line: 52698
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5688, 5691
+  Atom names: SG, FE1, FE3, S2
+  Atom types: S1O, FEJO, FEJO, SJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 202:
+  Line: 52699
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5688, 5692
+  Atom names: SG, FE1, FE3, S3
+  Atom types: S1O, FEJO, FEJO, SJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 203:
+  Line: 52700
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5688, 5693
+  Atom names: SG, FE1, FE3, S4
+  Atom types: S1O, FEJO, FEJO, SJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 204:
+  Line: 52701
+  Message: No default Proper Dih. types
+  Atoms involved: 5687, 5686, 5688, 4498
+  Atom names: FE2, FE1, FE3, SG
+  Atom types: FEJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS503
+
+------------------------------
+
+Error 205:
+  Line: 52702
+  Message: No default Proper Dih. types
+  Atoms involved: 5689, 5686, 5688, 4498
+  Atom names: FE4, FE1, FE3, SG
+  Atom types: FEJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS503
+
+------------------------------
+
+Error 206:
+  Line: 52703
+  Message: No default Proper Dih. types
+  Atoms involved: 5690, 5686, 5688, 4498
+  Atom names: S1, FE1, FE3, SG
+  Atom types: SJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS503
+
+------------------------------
+
+Error 207:
+  Line: 52704
+  Message: No default Proper Dih. types
+  Atoms involved: 5691, 5686, 5688, 4498
+  Atom names: S2, FE1, FE3, SG
+  Atom types: SJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS503
+
+------------------------------
+
+Error 208:
+  Line: 52705
+  Message: No default Proper Dih. types
+  Atoms involved: 5692, 5686, 5688, 4498
+  Atom names: S3, FE1, FE3, SG
+  Atom types: SJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS503
+
+------------------------------
+
+Error 209:
+  Line: 52727
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5689, 4457
+  Atom names: SG, FE1, FE4, SG
+  Atom types: S1O, FEJO, FEJO, S1O
+  Residues: CYS355, F4O602, F4O602, CYS499
+
+------------------------------
+
+Error 210:
+  Line: 52728
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5689, 5687
+  Atom names: SG, FE1, FE4, FE2
+  Atom types: S1O, FEJO, FEJO, FEJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 211:
+  Line: 52729
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5689, 5688
+  Atom names: SG, FE1, FE4, FE3
+  Atom types: S1O, FEJO, FEJO, FEJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 212:
+  Line: 52730
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5689, 5690
+  Atom names: SG, FE1, FE4, S1
+  Atom types: S1O, FEJO, FEJO, SJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 213:
+  Line: 52731
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5689, 5692
+  Atom names: SG, FE1, FE4, S3
+  Atom types: S1O, FEJO, FEJO, SJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 214:
+  Line: 52732
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5689, 5693
+  Atom names: SG, FE1, FE4, S4
+  Atom types: S1O, FEJO, FEJO, SJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 215:
+  Line: 52733
+  Message: No default Proper Dih. types
+  Atoms involved: 5687, 5686, 5689, 4457
+  Atom names: FE2, FE1, FE4, SG
+  Atom types: FEJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS499
+
+------------------------------
+
+Error 216:
+  Line: 52734
+  Message: No default Proper Dih. types
+  Atoms involved: 5688, 5686, 5689, 4457
+  Atom names: FE3, FE1, FE4, SG
+  Atom types: FEJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS499
+
+------------------------------
+
+Error 217:
+  Line: 52735
+  Message: No default Proper Dih. types
+  Atoms involved: 5690, 5686, 5689, 4457
+  Atom names: S1, FE1, FE4, SG
+  Atom types: SJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS499
+
+------------------------------
+
+Error 218:
+  Line: 52736
+  Message: No default Proper Dih. types
+  Atoms involved: 5691, 5686, 5689, 4457
+  Atom names: S2, FE1, FE4, SG
+  Atom types: SJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS499
+
+------------------------------
+
+Error 219:
+  Line: 52737
+  Message: No default Proper Dih. types
+  Atoms involved: 5692, 5686, 5689, 4457
+  Atom names: S3, FE1, FE4, SG
+  Atom types: SJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS499
+
+------------------------------
+
+Error 220:
+  Line: 52742
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5690, 5687
+  Atom names: SG, FE1, S1, FE2
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 221:
+  Line: 52743
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5690, 5689
+  Atom names: SG, FE1, S1, FE4
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 222:
+  Line: 52744
+  Message: No default Proper Dih. types
+  Atoms involved: 5691, 5686, 5690, 5687
+  Atom names: S2, FE1, S1, FE2
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 223:
+  Line: 52745
+  Message: No default Proper Dih. types
+  Atoms involved: 5691, 5686, 5690, 5689
+  Atom names: S2, FE1, S1, FE4
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 224:
+  Line: 52746
+  Message: No default Proper Dih. types
+  Atoms involved: 5692, 5686, 5690, 5687
+  Atom names: S3, FE1, S1, FE2
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 225:
+  Line: 52747
+  Message: No default Proper Dih. types
+  Atoms involved: 5692, 5686, 5690, 5689
+  Atom names: S3, FE1, S1, FE4
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 226:
+  Line: 52752
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5691, 5687
+  Atom names: SG, FE1, S2, FE2
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 227:
+  Line: 52753
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5691, 5688
+  Atom names: SG, FE1, S2, FE3
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 228:
+  Line: 52754
+  Message: No default Proper Dih. types
+  Atoms involved: 5690, 5686, 5691, 5687
+  Atom names: S1, FE1, S2, FE2
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 229:
+  Line: 52755
+  Message: No default Proper Dih. types
+  Atoms involved: 5690, 5686, 5691, 5688
+  Atom names: S1, FE1, S2, FE3
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 230:
+  Line: 52756
+  Message: No default Proper Dih. types
+  Atoms involved: 5692, 5686, 5691, 5687
+  Atom names: S3, FE1, S2, FE2
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 231:
+  Line: 52757
+  Message: No default Proper Dih. types
+  Atoms involved: 5692, 5686, 5691, 5688
+  Atom names: S3, FE1, S2, FE3
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 232:
+  Line: 52762
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5692, 5688
+  Atom names: SG, FE1, S3, FE3
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 233:
+  Line: 52763
+  Message: No default Proper Dih. types
+  Atoms involved: 2249, 5686, 5692, 5689
+  Atom names: SG, FE1, S3, FE4
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS355, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 234:
+  Line: 52764
+  Message: No default Proper Dih. types
+  Atoms involved: 5690, 5686, 5692, 5688
+  Atom names: S1, FE1, S3, FE3
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 235:
+  Line: 52765
+  Message: No default Proper Dih. types
+  Atoms involved: 5690, 5686, 5692, 5689
+  Atom names: S1, FE1, S3, FE4
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 236:
+  Line: 52766
+  Message: No default Proper Dih. types
+  Atoms involved: 5691, 5686, 5692, 5688
+  Atom names: S2, FE1, S3, FE3
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 237:
+  Line: 52767
+  Message: No default Proper Dih. types
+  Atoms involved: 5691, 5686, 5692, 5689
+  Atom names: S2, FE1, S3, FE4
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 238:
+  Line: 52789
+  Message: No default Proper Dih. types
+  Atoms involved: 1400, 5687, 5688, 4498
+  Atom names: SG, FE2, FE3, SG
+  Atom types: S1O, FEJO, FEJO, S1O
+  Residues: CYS300, F4O602, F4O602, CYS503
+
+------------------------------
+
+Error 239:
+  Line: 52790
+  Message: No default Proper Dih. types
+  Atoms involved: 1400, 5687, 5688, 5686
+  Atom names: SG, FE2, FE3, FE1
+  Atom types: S1O, FEJO, FEJO, FEJO
+  Residues: CYS300, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 240:
+  Line: 52791
+  Message: No default Proper Dih. types
+  Atoms involved: 1400, 5687, 5688, 5689
+  Atom names: SG, FE2, FE3, FE4
+  Atom types: S1O, FEJO, FEJO, FEJO
+  Residues: CYS300, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 241:
+  Line: 52792
+  Message: No default Proper Dih. types
+  Atoms involved: 1400, 5687, 5688, 5691
+  Atom names: SG, FE2, FE3, S2
+  Atom types: S1O, FEJO, FEJO, SJO
+  Residues: CYS300, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 242:
+  Line: 52793
+  Message: No default Proper Dih. types
+  Atoms involved: 1400, 5687, 5688, 5692
+  Atom names: SG, FE2, FE3, S3
+  Atom types: S1O, FEJO, FEJO, SJO
+  Residues: CYS300, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 243:
+  Line: 52794
+  Message: No default Proper Dih. types
+  Atoms involved: 1400, 5687, 5688, 5693
+  Atom names: SG, FE2, FE3, S4
+  Atom types: S1O, FEJO, FEJO, SJO
+  Residues: CYS300, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 244:
+  Line: 52795
+  Message: No default Proper Dih. types
+  Atoms involved: 5686, 5687, 5688, 4498
+  Atom names: FE1, FE2, FE3, SG
+  Atom types: FEJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS503
+
+------------------------------
+
+Error 245:
+  Line: 52796
+  Message: No default Proper Dih. types
+  Atoms involved: 5689, 5687, 5688, 4498
+  Atom names: FE4, FE2, FE3, SG
+  Atom types: FEJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS503
+
+------------------------------
+
+Error 246:
+  Line: 52797
+  Message: No default Proper Dih. types
+  Atoms involved: 5690, 5687, 5688, 4498
+  Atom names: S1, FE2, FE3, SG
+  Atom types: SJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS503
+
+------------------------------
+
+Error 247:
+  Line: 52798
+  Message: No default Proper Dih. types
+  Atoms involved: 5691, 5687, 5688, 4498
+  Atom names: S2, FE2, FE3, SG
+  Atom types: SJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS503
+
+------------------------------
+
+Error 248:
+  Line: 52799
+  Message: No default Proper Dih. types
+  Atoms involved: 5693, 5687, 5688, 4498
+  Atom names: S4, FE2, FE3, SG
+  Atom types: SJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS503
+
+------------------------------
+
+Error 249:
+  Line: 52821
+  Message: No default Proper Dih. types
+  Atoms involved: 1400, 5687, 5689, 4457
+  Atom names: SG, FE2, FE4, SG
+  Atom types: S1O, FEJO, FEJO, S1O
+  Residues: CYS300, F4O602, F4O602, CYS499
+
+------------------------------
+
+Error 250:
+  Line: 52822
+  Message: No default Proper Dih. types
+  Atoms involved: 1400, 5687, 5689, 5686
+  Atom names: SG, FE2, FE4, FE1
+  Atom types: S1O, FEJO, FEJO, FEJO
+  Residues: CYS300, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 251:
+  Line: 52823
+  Message: No default Proper Dih. types
+  Atoms involved: 1400, 5687, 5689, 5688
+  Atom names: SG, FE2, FE4, FE3
+  Atom types: S1O, FEJO, FEJO, FEJO
+  Residues: CYS300, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 252:
+  Line: 52824
+  Message: No default Proper Dih. types
+  Atoms involved: 1400, 5687, 5689, 5690
+  Atom names: SG, FE2, FE4, S1
+  Atom types: S1O, FEJO, FEJO, SJO
+  Residues: CYS300, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 253:
+  Line: 52825
+  Message: No default Proper Dih. types
+  Atoms involved: 1400, 5687, 5689, 5692
+  Atom names: SG, FE2, FE4, S3
+  Atom types: S1O, FEJO, FEJO, SJO
+  Residues: CYS300, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 254:
+  Line: 52826
+  Message: No default Proper Dih. types
+  Atoms involved: 1400, 5687, 5689, 5693
+  Atom names: SG, FE2, FE4, S4
+  Atom types: S1O, FEJO, FEJO, SJO
+  Residues: CYS300, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 255:
+  Line: 52827
+  Message: No default Proper Dih. types
+  Atoms involved: 5686, 5687, 5689, 4457
+  Atom names: FE1, FE2, FE4, SG
+  Atom types: FEJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS499
+
+------------------------------
+
+Error 256:
+  Line: 52828
+  Message: No default Proper Dih. types
+  Atoms involved: 5688, 5687, 5689, 4457
+  Atom names: FE3, FE2, FE4, SG
+  Atom types: FEJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS499
+
+------------------------------
+
+Error 257:
+  Line: 52829
+  Message: No default Proper Dih. types
+  Atoms involved: 5690, 5687, 5689, 4457
+  Atom names: S1, FE2, FE4, SG
+  Atom types: SJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS499
+
+------------------------------
+
+Error 258:
+  Line: 52830
+  Message: No default Proper Dih. types
+  Atoms involved: 5691, 5687, 5689, 4457
+  Atom names: S2, FE2, FE4, SG
+  Atom types: SJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS499
+
+------------------------------
+
+Error 259:
+  Line: 52831
+  Message: No default Proper Dih. types
+  Atoms involved: 5693, 5687, 5689, 4457
+  Atom names: S4, FE2, FE4, SG
+  Atom types: SJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS499
+
+------------------------------
+
+Error 260:
+  Line: 52836
+  Message: No default Proper Dih. types
+  Atoms involved: 1400, 5687, 5690, 5686
+  Atom names: SG, FE2, S1, FE1
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS300, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 261:
+  Line: 52837
+  Message: No default Proper Dih. types
+  Atoms involved: 1400, 5687, 5690, 5689
+  Atom names: SG, FE2, S1, FE4
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS300, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 262:
+  Line: 52838
+  Message: No default Proper Dih. types
+  Atoms involved: 5691, 5687, 5690, 5686
+  Atom names: S2, FE2, S1, FE1
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 263:
+  Line: 52839
+  Message: No default Proper Dih. types
+  Atoms involved: 5691, 5687, 5690, 5689
+  Atom names: S2, FE2, S1, FE4
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 264:
+  Line: 52840
+  Message: No default Proper Dih. types
+  Atoms involved: 5693, 5687, 5690, 5686
+  Atom names: S4, FE2, S1, FE1
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 265:
+  Line: 52841
+  Message: No default Proper Dih. types
+  Atoms involved: 5693, 5687, 5690, 5689
+  Atom names: S4, FE2, S1, FE4
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 266:
+  Line: 52846
+  Message: No default Proper Dih. types
+  Atoms involved: 1400, 5687, 5691, 5686
+  Atom names: SG, FE2, S2, FE1
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS300, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 267:
+  Line: 52847
+  Message: No default Proper Dih. types
+  Atoms involved: 1400, 5687, 5691, 5688
+  Atom names: SG, FE2, S2, FE3
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS300, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 268:
+  Line: 52848
+  Message: No default Proper Dih. types
+  Atoms involved: 5690, 5687, 5691, 5686
+  Atom names: S1, FE2, S2, FE1
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 269:
+  Line: 52849
+  Message: No default Proper Dih. types
+  Atoms involved: 5690, 5687, 5691, 5688
+  Atom names: S1, FE2, S2, FE3
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 270:
+  Line: 52850
+  Message: No default Proper Dih. types
+  Atoms involved: 5693, 5687, 5691, 5686
+  Atom names: S4, FE2, S2, FE1
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 271:
+  Line: 52851
+  Message: No default Proper Dih. types
+  Atoms involved: 5693, 5687, 5691, 5688
+  Atom names: S4, FE2, S2, FE3
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 272:
+  Line: 52856
+  Message: No default Proper Dih. types
+  Atoms involved: 1400, 5687, 5693, 5688
+  Atom names: SG, FE2, S4, FE3
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS300, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 273:
+  Line: 52857
+  Message: No default Proper Dih. types
+  Atoms involved: 1400, 5687, 5693, 5689
+  Atom names: SG, FE2, S4, FE4
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS300, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 274:
+  Line: 52858
+  Message: No default Proper Dih. types
+  Atoms involved: 5690, 5687, 5693, 5688
+  Atom names: S1, FE2, S4, FE3
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 275:
+  Line: 52859
+  Message: No default Proper Dih. types
+  Atoms involved: 5690, 5687, 5693, 5689
+  Atom names: S1, FE2, S4, FE4
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 276:
+  Line: 52860
+  Message: No default Proper Dih. types
+  Atoms involved: 5691, 5687, 5693, 5688
+  Atom names: S2, FE2, S4, FE3
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 277:
+  Line: 52861
+  Message: No default Proper Dih. types
+  Atoms involved: 5691, 5687, 5693, 5689
+  Atom names: S2, FE2, S4, FE4
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 278:
+  Line: 52883
+  Message: No default Proper Dih. types
+  Atoms involved: 4498, 5688, 5689, 4457
+  Atom names: SG, FE3, FE4, SG
+  Atom types: S1O, FEJO, FEJO, S1O
+  Residues: CYS503, F4O602, F4O602, CYS499
+
+------------------------------
+
+Error 279:
+  Line: 52884
+  Message: No default Proper Dih. types
+  Atoms involved: 4498, 5688, 5689, 5686
+  Atom names: SG, FE3, FE4, FE1
+  Atom types: S1O, FEJO, FEJO, FEJO
+  Residues: CYS503, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 280:
+  Line: 52885
+  Message: No default Proper Dih. types
+  Atoms involved: 4498, 5688, 5689, 5687
+  Atom names: SG, FE3, FE4, FE2
+  Atom types: S1O, FEJO, FEJO, FEJO
+  Residues: CYS503, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 281:
+  Line: 52886
+  Message: No default Proper Dih. types
+  Atoms involved: 4498, 5688, 5689, 5690
+  Atom names: SG, FE3, FE4, S1
+  Atom types: S1O, FEJO, FEJO, SJO
+  Residues: CYS503, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 282:
+  Line: 52887
+  Message: No default Proper Dih. types
+  Atoms involved: 4498, 5688, 5689, 5692
+  Atom names: SG, FE3, FE4, S3
+  Atom types: S1O, FEJO, FEJO, SJO
+  Residues: CYS503, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 283:
+  Line: 52888
+  Message: No default Proper Dih. types
+  Atoms involved: 4498, 5688, 5689, 5693
+  Atom names: SG, FE3, FE4, S4
+  Atom types: S1O, FEJO, FEJO, SJO
+  Residues: CYS503, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 284:
+  Line: 52889
+  Message: No default Proper Dih. types
+  Atoms involved: 5686, 5688, 5689, 4457
+  Atom names: FE1, FE3, FE4, SG
+  Atom types: FEJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS499
+
+------------------------------
+
+Error 285:
+  Line: 52890
+  Message: No default Proper Dih. types
+  Atoms involved: 5687, 5688, 5689, 4457
+  Atom names: FE2, FE3, FE4, SG
+  Atom types: FEJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS499
+
+------------------------------
+
+Error 286:
+  Line: 52891
+  Message: No default Proper Dih. types
+  Atoms involved: 5691, 5688, 5689, 4457
+  Atom names: S2, FE3, FE4, SG
+  Atom types: SJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS499
+
+------------------------------
+
+Error 287:
+  Line: 52892
+  Message: No default Proper Dih. types
+  Atoms involved: 5692, 5688, 5689, 4457
+  Atom names: S3, FE3, FE4, SG
+  Atom types: SJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS499
+
+------------------------------
+
+Error 288:
+  Line: 52893
+  Message: No default Proper Dih. types
+  Atoms involved: 5693, 5688, 5689, 4457
+  Atom names: S4, FE3, FE4, SG
+  Atom types: SJO, FEJO, FEJO, S1O
+  Residues: F4O602, F4O602, F4O602, CYS499
+
+------------------------------
+
+Error 289:
+  Line: 52898
+  Message: No default Proper Dih. types
+  Atoms involved: 4498, 5688, 5691, 5686
+  Atom names: SG, FE3, S2, FE1
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS503, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 290:
+  Line: 52899
+  Message: No default Proper Dih. types
+  Atoms involved: 4498, 5688, 5691, 5687
+  Atom names: SG, FE3, S2, FE2
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS503, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 291:
+  Line: 52900
+  Message: No default Proper Dih. types
+  Atoms involved: 5692, 5688, 5691, 5686
+  Atom names: S3, FE3, S2, FE1
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 292:
+  Line: 52901
+  Message: No default Proper Dih. types
+  Atoms involved: 5692, 5688, 5691, 5687
+  Atom names: S3, FE3, S2, FE2
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 293:
+  Line: 52902
+  Message: No default Proper Dih. types
+  Atoms involved: 5693, 5688, 5691, 5686
+  Atom names: S4, FE3, S2, FE1
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 294:
+  Line: 52903
+  Message: No default Proper Dih. types
+  Atoms involved: 5693, 5688, 5691, 5687
+  Atom names: S4, FE3, S2, FE2
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 295:
+  Line: 52908
+  Message: No default Proper Dih. types
+  Atoms involved: 4498, 5688, 5692, 5686
+  Atom names: SG, FE3, S3, FE1
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS503, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 296:
+  Line: 52909
+  Message: No default Proper Dih. types
+  Atoms involved: 4498, 5688, 5692, 5689
+  Atom names: SG, FE3, S3, FE4
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS503, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 297:
+  Line: 52910
+  Message: No default Proper Dih. types
+  Atoms involved: 5691, 5688, 5692, 5686
+  Atom names: S2, FE3, S3, FE1
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 298:
+  Line: 52911
+  Message: No default Proper Dih. types
+  Atoms involved: 5691, 5688, 5692, 5689
+  Atom names: S2, FE3, S3, FE4
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 299:
+  Line: 52912
+  Message: No default Proper Dih. types
+  Atoms involved: 5693, 5688, 5692, 5686
+  Atom names: S4, FE3, S3, FE1
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 300:
+  Line: 52913
+  Message: No default Proper Dih. types
+  Atoms involved: 5693, 5688, 5692, 5689
+  Atom names: S4, FE3, S3, FE4
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 301:
+  Line: 52918
+  Message: No default Proper Dih. types
+  Atoms involved: 4498, 5688, 5693, 5687
+  Atom names: SG, FE3, S4, FE2
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS503, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 302:
+  Line: 52919
+  Message: No default Proper Dih. types
+  Atoms involved: 4498, 5688, 5693, 5689
+  Atom names: SG, FE3, S4, FE4
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS503, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 303:
+  Line: 52920
+  Message: No default Proper Dih. types
+  Atoms involved: 5691, 5688, 5693, 5687
+  Atom names: S2, FE3, S4, FE2
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 304:
+  Line: 52921
+  Message: No default Proper Dih. types
+  Atoms involved: 5691, 5688, 5693, 5689
+  Atom names: S2, FE3, S4, FE4
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 305:
+  Line: 52922
+  Message: No default Proper Dih. types
+  Atoms involved: 5692, 5688, 5693, 5687
+  Atom names: S3, FE3, S4, FE2
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 306:
+  Line: 52923
+  Message: No default Proper Dih. types
+  Atoms involved: 5692, 5688, 5693, 5689
+  Atom names: S3, FE3, S4, FE4
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 307:
+  Line: 52928
+  Message: No default Proper Dih. types
+  Atoms involved: 4457, 5689, 5690, 5686
+  Atom names: SG, FE4, S1, FE1
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS499, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 308:
+  Line: 52929
+  Message: No default Proper Dih. types
+  Atoms involved: 4457, 5689, 5690, 5687
+  Atom names: SG, FE4, S1, FE2
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS499, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 309:
+  Line: 52930
+  Message: No default Proper Dih. types
+  Atoms involved: 5692, 5689, 5690, 5686
+  Atom names: S3, FE4, S1, FE1
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 310:
+  Line: 52931
+  Message: No default Proper Dih. types
+  Atoms involved: 5692, 5689, 5690, 5687
+  Atom names: S3, FE4, S1, FE2
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 311:
+  Line: 52932
+  Message: No default Proper Dih. types
+  Atoms involved: 5693, 5689, 5690, 5686
+  Atom names: S4, FE4, S1, FE1
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 312:
+  Line: 52933
+  Message: No default Proper Dih. types
+  Atoms involved: 5693, 5689, 5690, 5687
+  Atom names: S4, FE4, S1, FE2
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 313:
+  Line: 52938
+  Message: No default Proper Dih. types
+  Atoms involved: 4457, 5689, 5692, 5686
+  Atom names: SG, FE4, S3, FE1
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS499, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 314:
+  Line: 52939
+  Message: No default Proper Dih. types
+  Atoms involved: 4457, 5689, 5692, 5688
+  Atom names: SG, FE4, S3, FE3
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS499, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 315:
+  Line: 52940
+  Message: No default Proper Dih. types
+  Atoms involved: 5690, 5689, 5692, 5686
+  Atom names: S1, FE4, S3, FE1
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 316:
+  Line: 52941
+  Message: No default Proper Dih. types
+  Atoms involved: 5690, 5689, 5692, 5688
+  Atom names: S1, FE4, S3, FE3
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 317:
+  Line: 52942
+  Message: No default Proper Dih. types
+  Atoms involved: 5693, 5689, 5692, 5686
+  Atom names: S4, FE4, S3, FE1
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 318:
+  Line: 52943
+  Message: No default Proper Dih. types
+  Atoms involved: 5693, 5689, 5692, 5688
+  Atom names: S4, FE4, S3, FE3
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 319:
+  Line: 52948
+  Message: No default Proper Dih. types
+  Atoms involved: 4457, 5689, 5693, 5687
+  Atom names: SG, FE4, S4, FE2
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS499, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 320:
+  Line: 52949
+  Message: No default Proper Dih. types
+  Atoms involved: 4457, 5689, 5693, 5688
+  Atom names: SG, FE4, S4, FE3
+  Atom types: S1O, FEJO, SJO, FEJO
+  Residues: CYS499, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 321:
+  Line: 52950
+  Message: No default Proper Dih. types
+  Atoms involved: 5690, 5689, 5693, 5687
+  Atom names: S1, FE4, S4, FE2
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 322:
+  Line: 52951
+  Message: No default Proper Dih. types
+  Atoms involved: 5690, 5689, 5693, 5688
+  Atom names: S1, FE4, S4, FE3
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 323:
+  Line: 52952
+  Message: No default Proper Dih. types
+  Atoms involved: 5692, 5689, 5693, 5687
+  Atom names: S3, FE4, S4, FE2
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+Error 324:
+  Line: 52953
+  Message: No default Proper Dih. types
+  Atoms involved: 5692, 5689, 5693, 5688
+  Atom names: S3, FE4, S4, FE3
+  Atom types: SJO, FEJO, SJO, FEJO
+  Residues: F4O602, F4O602, F4O602, F4O602
+
+------------------------------
+
+
+Analysis completed.
